@@ -10,8 +10,8 @@ A fullly resolved three-dimensional VOF-DEM coupling solver.
 * Highly customizable and extensible due to OPENFOAM's open-source nature.
 
 **attention:**
-The research paper of the solver is under review, and only partial validation cases have been uploaded.
+*The research paper of the solver is under review, and only partial validation cases have been uploaded.
 
-After the manuscript is accepted, the program developed in this work (pyVOFIBFoam) will be freely accessed, and the link will be updated in this section of the proof version.
+*After the manuscript is accepted, the program developed in this work (pyVOFIBFoam) will be freely accessed, and the link will be updated in this section of the proof version.
 
 The software package is now being prepared and will be released soon.
